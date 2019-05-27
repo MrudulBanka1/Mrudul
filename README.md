@@ -13,13 +13,17 @@ I am unable to post my data science projects I had completed during my internshi
 - __Position: Big Data Analytics Intern,    Duration: August 2018 - May 2019__
 
 __About Apilation.ai__
+
 Apilation.ai is an intelligent information mining company designed from the ground up toinnovate, develop, and deliver on 
 the Big Data analytics needs of our post-IOT data-centric societyby providing the people, process, and technologies that 
 empower our clients to: 1) Connect ubiquitously, 2) Analyze instinctively, and 3) Act intelligently. All in real-time.
 
 ## My Experience: 
 1. Overall it was a wonderful learning experience which has given me a great outlook of the data
-science industry i.e . __to achieve success as a data science team, the team has to develop a thorough understanding of the business problem along with technical expertise. The team has to work towrads developing trust of decision makers, dealing patiently with all stakeholders. Another important aspect is how concisely can the team convey the impact which can achieved by pursuing a project when connecting with the right people.__ 
+science industry i.e.
+   - __to achieve success as a data science team, the team has to develop a thorough understanding of the business problem along with        technical expertise.__ 
+   - __The team has to work towrads developing trust of decision makers, dealing patiently with all stakeholders.__ 
+   - __Another important aspect is how concisely can the team convey the impact which can achieved by pursuing a project when connecting     with the right people.__ 
 2. Working on industrial scale Big Data projects showed me the how information generated
 through big data analytics and machine learning can be used to generate and save millions of
 dollars in revenue.
