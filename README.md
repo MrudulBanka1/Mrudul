@@ -7,7 +7,7 @@ I am unable to post my data science projects I had completed during my internshi
 
 ## Internship experience at Apilation.ai
 
-- __Company Website: [Apilation.ai](http://www.apilation.ai/__)   
+- __Company Website:__ [Apilation.ai](http://www.apilation.ai/)   
 - __Location: Mill Valley, California - Dallas, Texas - Remote__
 - __Position: Big Data Analytics Intern,    Duration: August 2018 - May 2019__
 
@@ -151,7 +151,7 @@ __My Contribution to project:__
 ## Individual Projects: In process of uploading more work. 
 
 ### Multi Class Classification: Tools used- MATLAB, Python, pyspark and some R for experimentation
-1. [Hand-Posture Recognition:](https://github.com/MrudulBanka1/Hand-Posture-Recognition__)
+1. [Hand-Posture Recognition:](https://github.com/MrudulBanka1/Hand-Posture-Recognition)
 
 - 5 class classification project to recognize different hand postures from motion captured Hand Postures. 
 - Number of Instances: 78095, Number of Attributes: 38, Attribute Characteristics: Real
