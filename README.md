@@ -18,7 +18,8 @@ Apilation.ai is an intelligent information mining company designed from the grou
 the Big Data analytics needs of our post-IOT data-centric societyby providing the people, process, and technologies that 
 empower our clients to: 1) Connect ubiquitously, 2) Analyze instinctively, and 3) Act intelligently. All in real-time.
 
-## My Experience: 
+__My Experience:__
+
 1. Overall it was a wonderful learning experience which has given me a great outlook of the data
 science industry i.e.
    - __to achieve success as a data science team, the team has to develop a thorough understanding of the business problem along with        technical expertise.__ 
@@ -42,7 +43,8 @@ started the internship.
 7. I understood how effective working in an open agile environmnet is, key points of how to tackle
 client requirements and produce deliverable on time. 
 
-## My Responsibilities:
+__My Responsibilities:__
+
 As described in the offer letter – ‘’Your job is to help us re-imagine how technology is
 leveraged in the businesses of the future. You will work under the mentorship of an experienced
 team leader in either Analytics, Platform, or Experience Engineering; learning new tools, techniques,
@@ -59,22 +61,20 @@ such as Tableau, Domo, Spotfire, and PowerBI.’’
 Along with everything quoted above, I was also made the team lead on DS-1 reconciliation engine as 
 well as the point on contact for the project. 
 
-### Projects Completed at internship at Apilation.ai
+__Projects Completed at internship at Apilation.ai__
+
 1. To build an automated DS-1 reconciliation engine, analyze the discrepancies, fault detection
    by rules and its visualization of Tariff # 14 for Frontier Communications.
-
 2. To develop, analyze and deploy a machine learning model to predict the chances of failure
    of set top boxes in the state of XXXX for Frontier Communications.
-
 3. To build an automated DS-1 reconciliation engine, analyze the discrepancies, fault detection
    by rules and its visualization of Tariff # 2,3,5,10 for Frontier Communications.
-
 4. To build a recommendation engine to recommend Tv shows a user would watch given his past 
    viewership and segments to which it belonged.
-   
 5. Perform Data Profiling to understand what can be done to obtain business value from their data.
 
-### Project 1: Automated reconciliation engine – Phase 1
+__Project 1: Automated reconciliation engine – Phase 1__
+
 The project is to build an automated DS-1 reconciliation engine. Frontier Communications has
 come together through a long series of acquisitions. It is believed that their billing is incorrect in a small
 percentage of cases, but a small percentage of a lot of circuits can make up a lot of money for the
@@ -85,6 +85,7 @@ Processed data, statistical analysis and visualizations were presented to the cl
 over 4 weeks in JSonar studio.
 
 __My Contribution to project:__
+
 1. Developed logic for exclusion rules and created pipelines in JSonar to execute those rules.
 2. Created more than 40 pipelines for production environment of the application.
 3. Designed statistical parameters through which outputs should be processed.
@@ -94,7 +95,7 @@ billed circuits.
 members of the team.
 6. Presented weekly status update on the project to the client.
 
-### Project 2: Machine learning model for Set top Box
+__Project 2: Machine learning model for Set top Box__
 
 The project is to build a prediction model to detect which set up box is going to fail. Frontier
 communications offer digital television services across USA. To minimize service order, minimize the
@@ -106,6 +107,7 @@ data mining models were created for 6 KPI’s which would indicate a fail/no fai
 top box. The application was built in over 4 weeks in JSonar studio, R Studio and H20 machine learning and python
 
 __My Contribution to project:__
+
 1. Performed feature engineering to select features, performed principle component analysis.
 2. Used concepts of regression analysis to find correlation for time series data.
 3. Used the H20 machine learning library along with R and python  to develop machine learning models for
@@ -113,8 +115,8 @@ failure prediction. Best model had a prediction accuracy of 91.01% (Model Type: 
 4. Tested models developed by other engineers in the team.
 5. Build production pipelines for a final equation with all 6 kpi's combining to create a score for prediction. 
 
-### Project 3: Automated reconciliation engine – Phase 2 – Project Lead
-_
+__Project 3: Automated reconciliation engine – Phase 2 – Project Lead__
+
 The project is to build an automated DS-1 reconciliation engine. Frontier Communications has
 come together through a long series of acquisitions. It is believed that their billing is incorrect in a small
 percentage of cases, but a small percentage of a lot of circuits can make up a lot of money for the
@@ -123,7 +125,9 @@ company. For the second phase, they had decided to concentrate on multiple tarif
 as billed correctly or billed incorrectly. After classification and implementation of production version of
 application, Processed data, statistical analysis and visualizations were presented to the client. The application
 was built in over 4 weeks in JSonar studio.
+
 __My Contribution to project:__
+
 1. I was the project lead for phase 2 and point of contact for client.
 2. Developed logic for business rules and created pipelines in JSonar to execute those rules.
 3. Created more than 85 pipelines for production environment of the application.
@@ -134,7 +138,8 @@ billed circuits.
 members of the team.
 7. Presented weekly status update on the project to the client.
 
-### Project 4: Tv shows recommendation engine
+__Project 4: Tv shows recommendation engine__
+
 In this project we were asked to build a recommendation engine to recommend Tv programs a customer would like based on set top box’s viewership history. This recommendation engine ccould be used a marketing tool for Set top users to recommend them shows. A channel churn recommendation engine was also built to understand if a user was likely to churn a particular channel user is currently subscribed to. We used IMDB data to understand what genres the Tv shows belonged to. The application was built in 4 weeks.    
 
 __My Contribution to project:__
@@ -143,7 +148,8 @@ __My Contribution to project:__
 3. Create visualizations to take user id as input and recommend programs
 4. Created Segments and used  IMDB dataset to enrich the data by adding genres to understand what is being watched.
 
-### Project 5: Data Profiling for company XXXX
+__Project 5: Data Profiling for company XXXX__
+
 We received a telecom company's mobile application log data. The expecation from us was to look into the data and to understand if any business value can be generated from that data. The data contained timestamp, location with other parameters relating to user which cannot be disclosed. My approach was to find answers for 2 questions - 1. How can I help you improve your product? 2. Can we build a new product from the information we posses? 
 
 __My Contribution to project:__
