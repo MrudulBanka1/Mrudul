@@ -3,9 +3,6 @@
 This repository contains all data science projects I have worked on till date as well as my brilliant experience during my internship. 
 I am unable to post my data science projects I had completed during my internship due to propriteray concerns.
 
-- [mrudulbanka@gmail.com](mailto:mrudulbanka@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) 
-- [mrudulpopatlal.banka@mavs.uta.edu](mailto:mrudulpopatlal.banka@mavs.uta.edu?subject=[GitHub]%20Source%20Han%20Sans)
-
 ## Internship experience at Apilation.ai
 
 - __Company Website:__ [Apilation.ai](http://www.apilation.ai/)   
@@ -233,27 +230,22 @@ __Classifiers and feature engineerng functions__
          
 - This section contains the functions of all the classifiers which I have tried to build from scratch. 
 
+## Resume
+
+[Mrudul Banka Resume](https://github.com/MrudulBanka1/Mrudul-Banka/blob/master/Resume_Mrudul_Banka.pdf)
+
+<a href="Resume_Mrudul_Banka.pdf">Download</a>
+
 ## Contact Details
 
 - [mrudulbanka@gmail.com](mailto:mrudulbanka@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) 
 - [mrudulpopatlal.banka@mavs.uta.edu](mailto:mrudulpopatlal.banka@mavs.uta.edu?subject=[GitHub]%20Source%20Han%20Sans)
+- Cell phone: +1-682-551-9129
 
 ## To Know more about me
 - [LinkedIn](https://www.linkedin.com/in/mrudulbanka/)
 - [Kaggle](https://www.kaggle.com/mrudul)
 - [Twitter](https://twitter.com/MRYDUL)
 - [Facebook](https://www.facebook.com/mrudul.banka)
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-[1]: https://twitter.com/MRYDUL
-[2]: https://www.facebook.com/mrudul.banka
-[3]: https://github.com/MrudulBanka1
 
 Thank you for visiting :smile: :+1: 
