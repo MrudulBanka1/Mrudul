@@ -3,7 +3,8 @@
 This repository contains all data science projects I have worked on till date as well as my brilliant experience during my internship. 
 I am unable to post my data science projects I had completed during my internship due to propriteray concerns.
 
-- Contact: @mrudulbanka@gmail.com or mrudulpopatlal.banka@mavs.uta.edu
+- [mrudulbanka@gmail.com](mailto:mrudulbanka@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) 
+- [mrudulpopatlal.banka@mavs.uta.edu](mailto:mrudulpopatlal.banka@mavs.uta.edu?subject=[GitHub]%20Source%20Han%20Sans)
 
 ## Internship experience at Apilation.ai
 
@@ -215,12 +216,10 @@ satisfacroty value of R squared to justify the model and by conducting hypothesi
     
 ## To Know more about me: 
 - [LinkedIn:](https://www.linkedin.com/in/mrudulbanka/)
-
 - [Kaggle:](https://www.kaggle.com/mrudul)
-
 - [Twitter:](https://twitter.com/MRYDUL)
-
 - [Facebook:](https://www.facebook.com/mrudul.banka)
+- [mrudulbanka@gmail.com](mailto:mrudulbanka@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) 
+- [mrudulpopatlal.banka@mavs.uta.edu](mailto:mrudulpopatlal.banka@mavs.uta.edu?subject=[GitHub]%20Source%20Han%20Sans)
 
-You can contact me @mrudulbanka@gmail.com or mrudulpopatlal.banka@mavs.uta.edu
 Thank you for visiting :smile: :+1: 
