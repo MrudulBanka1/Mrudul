@@ -159,9 +159,11 @@ __My Contribution to project:__
 4. I came up with two concepts through which their product can be improved with a focus on location of the user. 
 5. The concepts are being developed with domain expertise from the company. 
 
-## Individual Projects: In process of uploading more work. 
+## Individual Projects: 
+In process of uploading more work. 
 
-### Multi Class Classification: Tools used- MATLAB, Python, pyspark and some R for experimentation
+__Multi Class Classification: Tools used- MATLAB, Python, pyspark and some R for experimentation__
+
 1. [Hand-Posture Recognition:](https://github.com/MrudulBanka1/Hand-Posture-Recognition)
 
 - 5 class classification project to recognize different hand postures from motion captured Hand Postures. 
@@ -169,13 +171,13 @@ __My Contribution to project:__
 
 2. [Credit Card Fraud Detection:](https://github.com/MrudulBanka1/pyspark)
 
-### Unsupervised learning: Tools used- Python, Jupyter Notebook
+__Unsupervised learning: Tools used- Python, Jupyter Notebook__
 
 1. [Weather prediction:](https://github.com/MrudulBanka1/Unsupervised_Learning)
 - The minute weather dataset contains raw sensor measurements captured at one-minute intervals.
 - This data comes from a weather station located in San Diego, California. Data was collected for a period of three years, from September 2011 to September 2014.
 
-### Regression Analysis: Tools used - Sas, python, pyspark
+__Regression Analysis: Tools used - Sas, python, pyspark__
 
 1. [Bitcoin-Regression:](https://github.com/MrudulBanka1/Bitcoin-Regression)
 - The goal of this study is to detect whether the coffee brand or the type of coffee machine have any effect on 
@@ -186,11 +188,11 @@ types of coffee making techniques and analyse experimental data.
 
 2. [California_Housing_median_house_value_prediction:](https://github.com/MrudulBanka1/pyspark)
 
-### Deep Learning: 
+__Deep Learning:__ 
 
 1. [Cats vs Dogs:](https://github.com/MrudulBanka1/Portfolio/blob/master/Cats%20vs%20Dogs.ipynb)
 
-### Natural Language processing: Tools used- Python, Pyspark, NLTK and other NLP libraries, Jupyter Notebook
+__Natural Language processing: Tools used- Python, Pyspark, NLTK and other NLP libraries, Jupyter Notebook__
 
 1. [The New York Times Topic Modeling:](https://github.com/MrudulBanka1/The-New-York-Times-Comments-Topic-Modeling)
 - In this project we try to analyze the comments posted on articles of The New York Times betwenn Jan - May for 2017 and 2018.
@@ -199,8 +201,9 @@ types of coffee making techniques and analyse experimental data.
 - We first scarp data from twitter by different means and predict the sentiment of the tweet by using a pre trained model.
 - The graph shows how a sentiment changes for a particular topic over a number of tweets. 
 
-### Recommender Systems
-### Design of Experiment: Tools used - Sas
+__Recommender Systems__
+
+__Design of Experiment: Tools used - Sas__
 
 1.[Coffee:](https://github.com/MrudulBanka1/Coffee)
 
@@ -209,16 +212,21 @@ understand the startical relationship between various parameters, look for best 
 satisfacroty value of R squared to justify the model and by conducting hypothesis testing. 
 - By using Regression analysis, we try to predict the price of bitcoin from a static dataset. 
 
-### Time Series Models
-### Simulation and Optimization
-### Fraud Detection: Python, pyspark
+__Time Series Models__
+
+__Simulation and Optimization__
+
+__Fraud Detection: Python, pyspark__
 
 1. [Credit Card Fraud Detection:](https://github.com/MrudulBanka1/pyspark)
 
-### Image Processing and Video Analytics
-### Marketing Research
-### Sports Analytics
-### Classifiers and feature engineerng functions
+__Image Processing and Video Analytics__
+
+__Marketing Research__
+
+__Sports Analytics__
+
+__Classifiers and feature engineerng functions__
 
 1. [My_Classifiers:](https://github.com/MrudulBanka1/My_Classifiers)
          
