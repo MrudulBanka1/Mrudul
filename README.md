@@ -159,7 +159,7 @@ __My Contribution to project:__
 - 5 class classification project to recognize different hand postures from motion captured Hand Postures. 
 - Number of Instances: 78095, Number of Attributes: 38, Attribute Characteristics: Real
 
-2. __Credit Card Fraud Detection: https://github.com/MrudulBanka1/pyspark __
+2. __Credit Card Fraud Detection: https://github.com/MrudulBanka1/pyspark__
 
 ### Unsupervised learning: Tools used- Python, Jupyter Notebook
 
@@ -176,23 +176,23 @@ to be aware of what coffee brands or the brewing process that may be harmful.
 - We design an experiment to measure acidic levels (in pH) of three different types of coffee roast and two different 
 types of coffee making techniques and analyse experimental data.
 
-2. __California_Housing_median_house_value_prediction: https://github.com/MrudulBanka1/pyspark __
+2. __California_Housing_median_house_value_prediction: https://github.com/MrudulBanka1/pyspark__
 
 ### Deep Learning: 
 
 ### Natural Language processing: Tools used- Python, Pyspark, NLTK and other NLP libraries, Jupyter Notebook
 
-1. __The New York Times Topic Modeling: https://github.com/MrudulBanka1/The-New-York-Times-Comments-Topic-Modeling __
+1. __The New York Times Topic Modeling: https://github.com/MrudulBanka1/The-New-York-Times-Comments-Topic-Modeling__
 - In this project we try to analyze the comments posted on articles of The New York Times betwenn Jan - May for 2017 and 2018.
 - We find 9 -15 different topics from the comments. Through the comments we try to predict the most popular topics and its keywords with their scores. 
-2. __Sentiment Analysis for Twitter: https://github.com/MrudulBanka1/Twitter_stream_Rest_api __
+2. __Sentiment Analysis for Twitter: https://github.com/MrudulBanka1/Twitter_stream_Rest_api__
 - We first scarp data from twitter by different means and predict the sentiment of the tweet by using a pre trained model.
 - The graph shows how a sentiment changes for a particular topic over a number of tweets. 
 
 ### Recommender Systems
 ### Design of Experiment: Tools used - Sas
 
-1.__Coffee: https://github.com/MrudulBanka1/Coffee __
+1.__Coffee: https://github.com/MrudulBanka1/Coffee__
 
 - This is a simple but indepth implementation of Multivariate Regression (MLR) analysis where the objective is to 
 understand the startical relationship between various parameters, look for best MLR model which gives us a 
@@ -210,18 +210,18 @@ satisfacroty value of R squared to justify the model and by conducting hypothesi
 ### Sports Analytics
 ### Classifiers and feature engineerng functions
 
-1. __My_Classifiers: https://github.com/MrudulBanka1/My_Classifiers __
+1. __My_Classifiers: https://github.com/MrudulBanka1/My_Classifiers__
          
 - This section contains the functions of all the classifiers which I have tried to build from scratch. 
     
 ## To Know more about me: 
-- __LinkedIn: https://www.linkedin.com/in/mrudulbanka/ __
+- __LinkedIn: https://www.linkedin.com/in/mrudulbanka/__
 
 - __Kaggle:https://www.kaggle.com/mrudul__
 
 - __Twitter: https://twitter.com/MRYDUL__
 
-- __Facebook: https://www.facebook.com/mrudul.banka __
+- __Facebook: https://www.facebook.com/mrudul.banka__
 
 You can contact me @mrudulbanka@gmail.com or mrudulpopatlal.banka@mavs.uta.edu
 Thank you for visiting :smile: :+1: 
