@@ -9,7 +9,7 @@ I am unable to post my data science projects I had completed during my internshi
 
 ### Company Name: Apilation.ai
 
-- __Company Website: (like http://www.apilation.ai/)__   
+- __Company Website: http://www.apilation.ai/__   
 - __Location: Mill Valley, California - Dallas, Texas - Remote__
 - __Position: Big Data Analytics Intern,    Duration: August 2018 - May 2019__
 
@@ -141,7 +141,6 @@ __My Contribution to project:__
 3. Create visualizations to take user id as input and recommend programs
 4. Created Segments and used  IMDB dataset to enrich the data by adding genres to understand what is being watched.
 
-
 ### Project 5: Data Profiling for company XXXX
 We received a telecom company's mobile application log data. The expecation from us was to look into the data and to understand if any business value can be generated from that data. The data contained timestamp, location with other parameters relating to user which cannot be disclosed. My approach was to find answers for 2 questions - 1. How can I help you improve your product? 2. Can we build a new product from the information we posses? 
 
@@ -154,81 +153,75 @@ __My Contribution to project:__
 
 ## Individual Projects: In process of uploading more work. 
 
-### - Multi Class Classification: Tools used- MATLAB, Python, pyspark and some R for experimentation 
-#### 1. Hand-Posture Recognition: https://github.com/MrudulBanka1/Hand-Posture-Recognition
+### Multi Class Classification: Tools used- MATLAB, Python, pyspark and some R for experimentation__
+1. __Hand-Posture Recognition: https://github.com/MrudulBanka1/Hand-Posture-Recognition__
 
 - 5 class classification project to recognize different hand postures from motion captured Hand Postures. 
 - Number of Instances: 78095, Number of Attributes: 38, Attribute Characteristics: Real
 
-#### 2. Credit Card Fraud Detection: https://github.com/MrudulBanka1/pyspark
+2. __Credit Card Fraud Detection: https://github.com/MrudulBanka1/pyspark __
 
-### - Unsupervised learning: Tools used- Python, Jupyter Notebook
+### Unsupervised learning: Tools used- Python, Jupyter Notebook
 
-#### 1. Weather prediction: https://github.com/MrudulBanka1/Unsupervised_Learning
+1. __Weather prediction: https://github.com/MrudulBanka1/Unsupervised_Learning__
 - The minute weather dataset contains raw sensor measurements captured at one-minute intervals.
 - This data comes from a weather station located in San Diego, California. Data was collected for a period of three years, from September 2011 to September 2014.
 
-### - Regression Analysis: Tools used - Sas, python, pyspark
+### Regression Analysis: Tools used - Sas, python, pyspark
 
-#### 1. Bitcoin-Regression: https://github.com/MrudulBanka1/Bitcoin-Regression
-
+1. __Bitcoin-Regression: https://github.com/MrudulBanka1/Bitcoin-Regression__
 - The goal of this study is to detect whether the coffee brand or the type of coffee machine have any effect on 
 the acidity levels of the coffee. This is to allow coffee drinkers who are sensitive to acidic foods and drinks 
 to be aware of what coffee brands or the brewing process that may be harmful. 
 - We design an experiment to measure acidic levels (in pH) of three different types of coffee roast and two different 
 types of coffee making techniques and analyse experimental data.
 
-#### 2. California_Housing_median_house_value_prediction: https://github.com/MrudulBanka1/pyspark
+2. __California_Housing_median_house_value_prediction: https://github.com/MrudulBanka1/pyspark __
 
-### - Deep Learning: 
+### Deep Learning: 
 
-### - Natural Language processing: Tools used- Python, Pyspark, NLTK and other NLP libraries, Jupyter Notebook
+### Natural Language processing: Tools used- Python, Pyspark, NLTK and other NLP libraries, Jupyter Notebook
 
-#### 1. The New York Times Topic Modeling: https://github.com/MrudulBanka1/The-New-York-Times-Comments-Topic-Modeling
+1. __The New York Times Topic Modeling: https://github.com/MrudulBanka1/The-New-York-Times-Comments-Topic-Modeling __
 - In this project we try to analyze the comments posted on articles of The New York Times betwenn Jan - May for 2017 and 2018.
 - We find 9 -15 different topics from the comments. Through the comments we try to predict the most popular topics and its keywords with their scores. 
-#### 2. Sentiment Analysis for Twitter: https://github.com/MrudulBanka1/Twitter_stream_Rest_api
+2. __Sentiment Analysis for Twitter: https://github.com/MrudulBanka1/Twitter_stream_Rest_api __
 - We first scarp data from twitter by different means and predict the sentiment of the tweet by using a pre trained model.
 - The graph shows how a sentiment changes for a particular topic over a number of tweets. 
 
-### - Recommender Systems
-### - Design of Experiment: Tools used - Sas
+### Recommender Systems
+### Design of Experiment: Tools used - Sas
 
-#### Coffee: https://github.com/MrudulBanka1/Coffee
+1.__Coffee: https://github.com/MrudulBanka1/Coffee __
+
 - This is a simple but indepth implementation of Multivariate Regression (MLR) analysis where the objective is to 
 understand the startical relationship between various parameters, look for best MLR model which gives us a 
 satisfacroty value of R squared to justify the model and by conducting hypothesis testing. 
 - By using Regression analysis, we try to predict the price of bitcoin from a static dataset. 
 
-### - Time Series Models
-### - Simulation and Optimization
-### - Fraud Detection: Python, pyspark
+### Time Series Models
+### Simulation and Optimization
+### Fraud Detection: Python, pyspark
 
-#### Credit Card Fraud Detection: https://github.com/MrudulBanka1/pyspark
+1. __Credit Card Fraud Detection: https://github.com/MrudulBanka1/pyspark__
 
-### - Image Processing and Video Analytics
-### - Marketing Research
-### - Sports Analytics
-### - Classifiers and feature engineerng functions
+### Image Processing and Video Analytics
+### Marketing Research
+### Sports Analytics
+### Classifiers and feature engineerng functions
 
-#### My_Classifiers: https://github.com/MrudulBanka1/My_Classifiers
+1. __My_Classifiers: https://github.com/MrudulBanka1/My_Classifiers __
          
 - This section contains the functions of all the classifiers which I have tried to build from scratch. 
     
-
 ## To Know more about me: 
+- __LinkedIn: https://www.linkedin.com/in/mrudulbanka/ __
 
-### LinkedIn: https://www.linkedin.com/in/mrudulbanka/
+- __Kaggle:https://www.kaggle.com/mrudul__
 
-### Personal Website: http://mrudulbanka.ml
+- __Twitter: https://twitter.com/MRYDUL__
 
-### Kaggle:	https://www.kaggle.com/mrudul
-
-### Twitter: https://twitter.com/MRYDUL
-
-### Facebook: https://www.facebook.com/mrudul.banka
+- __Facebook: https://www.facebook.com/mrudul.banka __
 
 You can contact me @mrudulbanka@gmail.com or mrudulpopatlal.banka@mavs.uta.edu
-
-Thank you for visiting :+1:
-
+Thank you for visiting :smile: :+1: 
