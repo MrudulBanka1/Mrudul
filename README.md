@@ -10,11 +10,12 @@ I am unable to post my data science projects I had completed during my internshi
 
 - __Company Website:__ [Apilation.ai](http://www.apilation.ai/)   
 - __Location: Mill Valley, California - Dallas, Texas - Remote__
-- __Position: Big Data Analytics Intern,    Duration: August 2018 - May 2019__
+- __Position: Big Data Analytics Intern__  
+- __Duration: August 2018 - May 2019__
 
 __About Apilation.ai__
 
-Apilation.ai is an intelligent information mining company designed from the ground up toinnovate, develop, and deliver on 
+   Apilation.ai is an intelligent information mining company designed from the ground up toinnovate, develop, and deliver on 
 the Big Data analytics needs of our post-IOT data-centric societyby providing the people, process, and technologies that 
 empower our clients to: 1) Connect ubiquitously, 2) Analyze instinctively, and 3) Act intelligently. All in real-time.
 
@@ -45,7 +46,7 @@ client requirements and produce deliverable on time.
 
 __My Responsibilities:__
 
-As described in the offer letter – ‘’Your job is to help us re-imagine how technology is
+   As described in the offer letter – ‘’Your job is to help us re-imagine how technology is
 leveraged in the businesses of the future. You will work under the mentorship of an experienced
 team leader in either Analytics, Platform, or Experience Engineering; learning new tools, techniques,
 and skills that can include coding predictive algorithms, building software, and defining how users
@@ -58,7 +59,7 @@ aggregation pipelines work. Education in Web Design and expertise such as the ME
 (MongoBD, Express, Angular, Node), HTML5, CSS, etc. SQL skills also important. Visualization tools
 such as Tableau, Domo, Spotfire, and PowerBI.’’
 
-Along with everything quoted above, I was also made the team lead on DS-1 reconciliation engine as 
+   Along with everything quoted above, I was also made the team lead on DS-1 reconciliation engine as 
 well as the point on contact for the project. 
 
 __Projects Completed at internship at Apilation.ai__
@@ -75,7 +76,7 @@ __Projects Completed at internship at Apilation.ai__
 
 __Project 1: Automated reconciliation engine – Phase 1__
 
-The project is to build an automated DS-1 reconciliation engine. Frontier Communications has
+   The project is to build an automated DS-1 reconciliation engine. Frontier Communications has
 come together through a long series of acquisitions. It is believed that their billing is incorrect in a small
 percentage of cases, but a small percentage of a lot of circuits can make up a lot of money for the
 company. For the first phase, they had decided to concentrate just on the single tariff #14 which covers 43% of
@@ -97,7 +98,7 @@ members of the team.
 
 __Project 2: Machine learning model for Set top Box__
 
-The project is to build a prediction model to detect which set up box is going to fail. Frontier
+   The project is to build a prediction model to detect which set up box is going to fail. Frontier
 communications offer digital television services across USA. To minimize service order, minimize the
 time taken to fulfill service orders because of set top box failures, frontier is turning to machine learning
 to detect which set up box is about to fail based on the data gathered from the set top box every 15
@@ -231,13 +232,28 @@ __Classifiers and feature engineerng functions__
 1. [My_Classifiers:](https://github.com/MrudulBanka1/My_Classifiers)
          
 - This section contains the functions of all the classifiers which I have tried to build from scratch. 
-    
-## To Know more about me: 
-- [LinkedIn:](https://www.linkedin.com/in/mrudulbanka/)
-- [Kaggle:](https://www.kaggle.com/mrudul)
-- [Twitter:](https://twitter.com/MRYDUL)
-- [Facebook:](https://www.facebook.com/mrudul.banka)
+
+## Contact Details
+
 - [mrudulbanka@gmail.com](mailto:mrudulbanka@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) 
 - [mrudulpopatlal.banka@mavs.uta.edu](mailto:mrudulpopatlal.banka@mavs.uta.edu?subject=[GitHub]%20Source%20Han%20Sans)
+
+## To Know more about me
+- [LinkedIn](https://www.linkedin.com/in/mrudulbanka/)
+- [Kaggle](https://www.kaggle.com/mrudul)
+- [Twitter](https://twitter.com/MRYDUL)
+- [Facebook](https://www.facebook.com/mrudul.banka)
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+[1]: https://twitter.com/MRYDUL
+[2]: https://www.facebook.com/mrudul.banka
+[3]: https://github.com/MrudulBanka1
 
 Thank you for visiting :smile: :+1: 
