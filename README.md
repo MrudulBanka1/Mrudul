@@ -177,6 +177,8 @@ types of coffee making techniques and analyse experimental data.
 
 ### Deep Learning: 
 
+1. __Cats vs Dogs: https://github.com/MrudulBanka1/Portfolio/blob/master/Cats%20vs%20Dogs.ipynb__
+
 ### Natural Language processing: Tools used- Python, Pyspark, NLTK and other NLP libraries, Jupyter Notebook
 
 1. __The New York Times Topic Modeling: https://github.com/MrudulBanka1/The-New-York-Times-Comments-Topic-Modeling__
