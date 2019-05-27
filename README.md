@@ -1,4 +1,5 @@
 # Data Science Portfolio
+
 This repository contains all data science projects I have worked on till date as well as my brilliant experience during my internship. 
 I am unable to post my data science projects I had completed during my internship due to propriteray concerns.
 
