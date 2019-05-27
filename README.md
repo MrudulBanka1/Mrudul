@@ -4,7 +4,7 @@ Hello, I am Mrudul Banka. I like to explore, learn, work and innovate.
 
 My areas of interest are - data science, operations research, IoT analytics, robotics, economics and process improvement. 
 
-This page showcases my brilliant experience during my internship and data science projects I have worked on till date as well as  
+This page showcases my brilliant experience during my internship and data science projects I have worked on till date. 
 
 ## Internship experience at Apilation.ai
 
