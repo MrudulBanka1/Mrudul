@@ -1,7 +1,10 @@
 # Mrudul Banka's Data Science Portfolio
 
-This repository contains all data science projects I have worked on till date as well as my brilliant experience during my internship. 
-I am unable to post my data science projects I had completed during my internship due to propriteray concerns.
+Hello, I am Mrudul Banka. I like to explore, learn, work and innovate. 
+
+My areas of interest are - data science, operations research, IOT analytics, robotics, economics and process improvement. 
+
+This page showcases my brilliant experience during my internship and data science projects I have worked on till date as well as  
 
 ## Internship experience at Apilation.ai
 
@@ -70,6 +73,8 @@ __Projects Completed at internship at Apilation.ai__
 4. To build a recommendation engine to recommend Tv shows a user would watch given his past 
    viewership and segments to which it belonged.
 5. Perform Data Profiling to understand what can be done to obtain business value from their data.
+
+I am unable to post links to my data science projects I had completed during my internship due to propriteray concerns but here is a description of all the work I have been involved in. 
 
 __Project 1: Automated reconciliation engine – Phase 1__
 
