@@ -177,7 +177,7 @@ types of coffee making techniques and analyse experimental data.
 
 ### Deep Learning: 
 
-1. [Cats vs Dogs:] https:(//github.com/MrudulBanka1/Portfolio/blob/master/Cats%20vs%20Dogs.ipynb)
+1. [Cats vs Dogs:](https://github.com/MrudulBanka1/Portfolio/blob/master/Cats%20vs%20Dogs.ipynb)
 
 ### Natural Language processing: Tools used- Python, Pyspark, NLTK and other NLP libraries, Jupyter Notebook
 
