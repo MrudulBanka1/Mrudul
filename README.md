@@ -3,25 +3,22 @@
 This repository contains all data science projects I have worked on till date as well as my brilliant experience during my internship. 
 I am unable to post my data science projects I had completed during my internship due to propriteray concerns.
 
-You can contact me @mrudulbanka@gmail.com or mrudulpopatlal.banka@mavs.uta.edu
+- Contact: @mrudulbanka@gmail.com or mrudulpopatlal.banka@mavs.uta.edu
 
 ## My internship experience
 
-#### Company Name: Apilation.ai
+### Company Name: Apilation.ai
 
-#### Company Website: http://www.apilation.ai/,   Location: Mill Valley, California - Dallas, Texas - Remote
+- __Company Website: (like http://www.apilation.ai/)__   
+- __Location: Mill Valley, California - Dallas, Texas - Remote__
+- __Position: Big Data Analytics Intern,    Duration: August 2018 - May 2019__
 
-#### Position: Big Data Analytics Intern,    Duration: August 2018 - May 2019
-
-### About Apilation.ai
-
-Apilation.ai is an intelligent information mining company designed from the ground up to
-innovate, develop, and deliver on the Big Data analytics needs of our post-IOT data-centric society
-by providing the people, process, and technologies that empower our clients to: 1) Connect
-ubiquitously, 2) Analyze instinctively, and 3) Act intelligently. All in real-time.
+__About Apilation.ai__
+Apilation.ai is an intelligent information mining company designed from the ground up toinnovate, develop, and deliver on 
+the Big Data analytics needs of our post-IOT data-centric societyby providing the people, process, and technologies that 
+empower our clients to: 1) Connect ubiquitously, 2) Analyze instinctively, and 3) Act intelligently. All in real-time.
 
 ### My Experience: 
-
 1. Overall it was a wonderful learning experience which has given me a great outlook of the data
 science industry i.e . __to achieve success as a data science team, the team has to develop a thorough understanding of the business problem along with technical expertise. The team has to work towrads developing trust of decision makers, dealing patiently with all stakeholders. Another important aspect is how concisely can the team convey the impact which can achieved by pursuing a project when connecting with the right people.__ 
 2. Working on industrial scale Big Data projects showed me the how information generated
@@ -59,10 +56,7 @@ such as Tableau, Domo, Spotfire, and PowerBI.’’
 Along with everything quoted above, I was also made the team lead on DS-1 reconciliation engine as 
 well as the point on contact for the project. 
 
-
-
 #### Projects Completed at internship at Apilation.ai
-
 1. To build an automated DS-1 reconciliation engine, analyze the discrepancies, fault detection
    by rules and its visualization of Tariff # 14 for Frontier Communications.
 
@@ -79,7 +73,6 @@ well as the point on contact for the project.
 
 ## Project Details:
 ### Project 1: Automated reconciliation engine – Phase 1
-#### About the project:
 The project is to build an automated DS-1 reconciliation engine. Frontier Communications has
 come together through a long series of acquisitions. It is believed that their billing is incorrect in a small
 percentage of cases, but a small percentage of a lot of circuits can make up a lot of money for the
@@ -89,7 +82,7 @@ correctly or billed incorrectly. After classification and implementation of prod
 Processed data, statistical analysis and visualizations were presented to the client. The application was built in
 over 4 weeks in JSonar studio.
 
-#### My Contribution to project:
+__My Contribution to project:__
 1. Developed logic for exclusion rules and created pipelines in JSonar to execute those rules.
 2. Created more than 40 pipelines for production environment of the application.
 3. Designed statistical parameters through which outputs should be processed.
@@ -100,7 +93,7 @@ members of the team.
 6. Presented weekly status update on the project to the client.
 
 ### Project 2: Machine learning model for Set top Box
-#### About the project:
+
 The project is to build a prediction model to detect which set up box is going to fail. Frontier
 communications offer digital television services across USA. To minimize service order, minimize the
 time taken to fulfill service orders because of set top box failures, frontier is turning to machine learning
@@ -110,7 +103,7 @@ total of 9TB of data was processed with a 90Gb batch of data inflow occurring ev
 data mining models were created for 6 KPI’s which would indicate a fail/no fail status prediction of set
 top box. The application was built in over 4 weeks in JSonar studio, R Studio and H20 machine learning and python
 
-#### My Contribution to project:
+__My Contribution to project:__
 1. Performed feature engineering to select features, performed principle component analysis.
 2. Used concepts of regression analysis to find correlation for time series data.
 3. Used the H20 machine learning library along with R and python  to develop machine learning models for
@@ -119,7 +112,7 @@ failure prediction. Best model had a prediction accuracy of 91.01% (Model Type: 
 5. Build production pipelines for a final equation with all 6 kpi's combining to create a score for prediction. 
 
 ### Project 3: Automated reconciliation engine – Phase 2 – Project Lead
-#### About the project:
+_
 The project is to build an automated DS-1 reconciliation engine. Frontier Communications has
 come together through a long series of acquisitions. It is believed that their billing is incorrect in a small
 percentage of cases, but a small percentage of a lot of circuits can make up a lot of money for the
@@ -128,7 +121,7 @@ company. For the second phase, they had decided to concentrate on multiple tarif
 as billed correctly or billed incorrectly. After classification and implementation of production version of
 application, Processed data, statistical analysis and visualizations were presented to the client. The application
 was built in over 4 weeks in JSonar studio.
-#### My Contribution to project:
+__My Contribution to project:__
 1. I was the project lead for phase 2 and point of contact for client.
 2. Developed logic for business rules and created pipelines in JSonar to execute those rules.
 3. Created more than 85 pipelines for production environment of the application.
@@ -139,27 +132,25 @@ billed circuits.
 members of the team.
 7. Presented weekly status update on the project to the client.
 
-### Project 4: 
-#### About the project: Tv shows recommendation engine 
+### Project 4: Tv shows recommendation engine
 In this project we were asked to build a recommendation engine to recommend Tv programs a customer would like based on set top box’s viewership history. This recommendation engine ccould be used a marketing tool for Set top users to recommend them shows. A channel churn recommendation engine was also built to understand if a user was likely to churn a particular channel user is currently subscribed to. We used IMDB data to understand what genres the Tv shows belonged to. The application was built in 4 weeks.    
 
-#### My Contribution to project:
+__My Contribution to project:__
 1. Building the recommendation engine for Tv shows and channel churn based on cosine similarity, collaborative filtering and Simon Funk'S SVD.
 2. Performed feature engineering to extract data from Jsonar, clean and normalize the necessary fields. 
 3. Create visualizations to take user id as input and recommend programs
 4. Created Segments and used  IMDB dataset to enrich the data by adding genres to understand what is being watched.
 
 
-### Project 5: 
-#### About the project: Data Profiling for company XXXX
+### Project 5: Data Profiling for company XXXX
 We received a telecom company's mobile application log data. The expecation from us was to look into the data and to understand if any business value can be generated from that data. The data contained timestamp, location with other parameters relating to user which cannot be disclosed. My approach was to find answers for 2 questions - 1. How can I help you improve your product? 2. Can we build a new product from the information we posses? 
-#### My Contribution to project:
+
+__My Contribution to project:__
 1. Understand the data, definitions for various fields. Cleansed it to provide structure to the data. 
 2. Perform statistical analysis of the data and find if any correlation can be obtained. 
 3. To understand if ads clickrate can be enhanced.  
 4. I came up with two concepts through which their product can be improved with a focus on location of the user. 
 5. The concepts are being developed with domain expertise from the company. 
-
 
 ## Individual Projects: In process of uploading more work. 
 
