@@ -163,7 +163,6 @@ In process of uploading more work.
 __Multi Class Classification: Tools used- MATLAB, Python, pyspark and some R for experimentation__
 
 1. [Hand-Posture Recognition:](https://github.com/MrudulBanka1/Hand-Posture-Recognition)
-
 - 5 class classification project to recognize different hand postures from motion captured Hand Postures. 
 - Number of Instances: 78095, Number of Attributes: 38, Attribute Characteristics: Real
 
@@ -204,7 +203,6 @@ __Recommender Systems__
 __Design of Experiment: Tools used - Sas__
 
 1.[Coffee:](https://github.com/MrudulBanka1/Coffee)
-
 - This is a simple but indepth implementation of Multivariate Regression (MLR) analysis where the objective is to 
 understand the startical relationship between various parameters, look for best MLR model which gives us a 
 satisfacroty value of R squared to justify the model and by conducting hypothesis testing. 
@@ -226,15 +224,12 @@ __Sports Analytics__
 
 __Classifiers and feature engineerng functions__
 
-1. [My_Classifiers:](https://github.com/MrudulBanka1/My_Classifiers)
-         
+1. [My_Classifiers:](https://github.com/MrudulBanka1/My_Classifiers)        
 - This section contains the functions of all the classifiers which I have tried to build from scratch. 
 
 ## Resume
 
-[Mrudul Banka Resume](https://github.com/MrudulBanka1/Mrudul-Banka/blob/master/Resume_Mrudul_Banka.pdf)
-
-<a href="Resume_Mrudul_Banka.pdf">Download</a>
+<a href="Resume_Mrudul_Banka.pdf">Mrudul Banka Resume </a>
 
 ## Contact Details
 
