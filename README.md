@@ -1,13 +1,11 @@
-# Data Science Portfolio
+# Mrudul Banka's Data Science Portfolio
 
 This repository contains all data science projects I have worked on till date as well as my brilliant experience during my internship. 
 I am unable to post my data science projects I had completed during my internship due to propriteray concerns.
 
 - Contact: @mrudulbanka@gmail.com or mrudulpopatlal.banka@mavs.uta.edu
 
-## My internship experience
-
-### Company Name: Apilation.ai
+## Internship experience at Apilation.ai
 
 - __Company Website: http://www.apilation.ai/__   
 - __Location: Mill Valley, California - Dallas, Texas - Remote__
@@ -18,7 +16,7 @@ Apilation.ai is an intelligent information mining company designed from the grou
 the Big Data analytics needs of our post-IOT data-centric societyby providing the people, process, and technologies that 
 empower our clients to: 1) Connect ubiquitously, 2) Analyze instinctively, and 3) Act intelligently. All in real-time.
 
-### My Experience: 
+## My Experience: 
 1. Overall it was a wonderful learning experience which has given me a great outlook of the data
 science industry i.e . __to achieve success as a data science team, the team has to develop a thorough understanding of the business problem along with technical expertise. The team has to work towrads developing trust of decision makers, dealing patiently with all stakeholders. Another important aspect is how concisely can the team convey the impact which can achieved by pursuing a project when connecting with the right people.__ 
 2. Working on industrial scale Big Data projects showed me the how information generated
@@ -39,7 +37,7 @@ started the internship.
 7. I understood how effective working in an open agile environmnet is, key points of how to tackle
 client requirements and produce deliverable on time. 
 
-### My Responsibilities:
+## My Responsibilities:
 As described in the offer letter – ‘’Your job is to help us re-imagine how technology is
 leveraged in the businesses of the future. You will work under the mentorship of an experienced
 team leader in either Analytics, Platform, or Experience Engineering; learning new tools, techniques,
@@ -56,7 +54,7 @@ such as Tableau, Domo, Spotfire, and PowerBI.’’
 Along with everything quoted above, I was also made the team lead on DS-1 reconciliation engine as 
 well as the point on contact for the project. 
 
-#### Projects Completed at internship at Apilation.ai
+### Projects Completed at internship at Apilation.ai
 1. To build an automated DS-1 reconciliation engine, analyze the discrepancies, fault detection
    by rules and its visualization of Tariff # 14 for Frontier Communications.
 
@@ -71,7 +69,6 @@ well as the point on contact for the project.
    
 5. Perform Data Profiling to understand what can be done to obtain business value from their data.
 
-## Project Details:
 ### Project 1: Automated reconciliation engine – Phase 1
 The project is to build an automated DS-1 reconciliation engine. Frontier Communications has
 come together through a long series of acquisitions. It is believed that their billing is incorrect in a small
