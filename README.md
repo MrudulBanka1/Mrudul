@@ -6,7 +6,7 @@ My areas of interest are - data science, operations research, IoT analytics, rob
 
 This page showcases my brilliant experience during my internship and data science projects I have worked on till date. 
 
-__Note: Please use right click - open in new tab to access all links. A temporary URL forwading issue is being fixed. Apologies for the inconvenience_ 
+__Note: Please use right click - open in new tab to access all links. A temporary URL forwading issue is being fixed. Apologies for the inconvenience__ 
 
 
 ## Internship experience at Apilation.ai
