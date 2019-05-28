@@ -235,6 +235,7 @@ __Classifiers and feature engineering functions__
 ## Resume
 
    __Click the link below to download__
+   
 <a href="Resume_Mrudul_Banka.pdf">Mrudul Banka Resume </a>
 
 ## Contact Details
