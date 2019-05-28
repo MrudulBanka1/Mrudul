@@ -34,15 +34,14 @@ opportunity helped me grow as a professional. I was also asked to train my fello
 technology I was good with.
 4. Throughout the internship I was mentored thoroughly by the CEO which proved helpful to me
 on a number of occasions.
-5. Learned and worked on a new programming languages, worked the NoSQL databases
-with JSonar Studio and MongoDB, how to create visualization on edge technologies tool. I was
-able to explore and experiment with all the tools within my sandbox environment which helped
-me learn faster.
-6. This internship prepared me for intense meetings, and how to communicate with clients and sell
+5. Learned and worked on new programming languages, worked the NoSQL databases with JSonar Studio and MongoDB, 
+how to create visualization on edge technologies tool. I was able to explore and experiment with all the tools 
+within my sandbox environment which helped me learn faster.
+6. This internship prepared me for intense meetings, how to communicate with clients and how to sell
 your product. My overall communication skills are far superior than what they were before I
 started the internship.
-7. I understood how effective working in an open agile environment is, key points of how to tackle
-client requirements and produce deliverable on time. 
+7. I understood how effective working in an open agile environment is with the key knowledge of how to tackle
+client requirements and produce deliverables on time. 
 
 __My Responsibilities:__
 
