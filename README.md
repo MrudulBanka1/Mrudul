@@ -15,8 +15,8 @@ This page showcases my brilliant experience during my internship and data scienc
 
 __About Apilation.ai__
 
-   Apilation.ai is an intelligent information mining company designed from the ground up toinnovate, develop, and deliver on 
-the Big Data analytics needs of our post-IOT data-centric societyby providing the people, process, and technologies that 
+   Apilation.ai is an intelligent information mining company designed from the ground up to innovate, develop, and deliver on 
+the Big Data analytics needs of our post-IOT data-centric society by providing the people, process, and technologies that 
 empower our clients to: 1) Connect ubiquitously, 2) Analyze instinctively, and 3) Act intelligently. All in real-time.
 
 __My Experience:__
@@ -24,7 +24,7 @@ __My Experience:__
 1. Overall it was a wonderful learning experience which has given me a great outlook of the data
 science industry i.e.
    - __to achieve success as a data science team, the team has to develop a thorough understanding of the business problem along with        technical expertise.__ 
-   - __The team has to work towrads developing trust of decision makers, dealing patiently with all stakeholders.__ 
+   - __The team has to work towards developing trust of decision makers, dealing patiently with all stakeholders.__ 
    - __Another important aspect is how concisely can the team convey the impact which can achieved by pursuing a project when connecting     with the right people.__ 
 2. Working on industrial scale Big Data projects showed me the how information generated
 through big data analytics and machine learning can be used to generate and save millions of
@@ -41,7 +41,7 @@ me learn faster.
 6. This internship prepared me for intense meetings, and how to communicate with clients and sell
 your product. My overall communication skills are far superior than what they were before I
 started the internship.
-7. I understood how effective working in an open agile environmnet is, key points of how to tackle
+7. I understood how effective working in an open agile environment is, key points of how to tackle
 client requirements and produce deliverable on time. 
 
 __My Responsibilities:__
@@ -60,7 +60,7 @@ aggregation pipelines work. Education in Web Design and expertise such as the ME
 such as Tableau, Domo, Spotfire, and PowerBI.’’
 
    Along with everything quoted above, I was also made the team lead on DS-1 reconciliation engine as 
-well as the point on contact for the project. 
+well as the point of contact for the project. 
 
 __Projects Completed at internship at Apilation.ai__
 
@@ -74,7 +74,7 @@ __Projects Completed at internship at Apilation.ai__
    viewership and segments to which it belonged.
 5. Perform Data Profiling to understand what can be done to obtain business value from their data.
 
-I am unable to post links to my data science projects I had completed during my internship due to propriteray concerns but here is a description of all the work I have been involved in. 
+I am unable to post links to my data science projects I had completed during my internship due to proprietary concerns but here is a description of all the work I have been involved in. 
 
 __Project 1: Automated reconciliation engine – Phase 1__
 
@@ -143,7 +143,7 @@ members of the team.
 
 __Project 4: Tv shows recommendation engine__
 
-In this project we were asked to build a recommendation engine to recommend Tv programs a customer would like based on set top box’s viewership history. This recommendation engine ccould be used a marketing tool for Set top users to recommend them shows. A channel churn recommendation engine was also built to understand if a user was likely to churn a particular channel user is currently subscribed to. We used IMDB data to understand what genres the Tv shows belonged to. The application was built in 4 weeks.    
+In this project we were asked to build a recommendation engine to recommend Tv programs a customer would like based on set top box’s viewership history. This recommendation engine could be used a marketing tool for Set top users to recommend them shows. A channel churn recommendation engine was also built to understand if a user was likely to churn a particular channel user is currently subscribed to. We used IMDB data to understand what genres the Tv shows belonged to. The application was built in 4 weeks.    
 
 __My Contribution to project:__
 1. Building the recommendation engine for Tv shows and channel churn based on cosine similarity, collaborative filtering and Simon Funk'S SVD.
@@ -153,12 +153,12 @@ __My Contribution to project:__
 
 __Project 5: Data Profiling for company XXXX__
 
-We received a telecom company's mobile application log data. The expecation from us was to look into the data and to understand if any business value can be generated from that data. The data contained timestamp, location with other parameters relating to user which cannot be disclosed. My approach was to find answers for 2 questions - 1. How can I help you improve your product? 2. Can we build a new product from the information we posses? 
+We received a telecom company's mobile application log data. The expectation from us was to look into the data and to understand if any business value can be generated from that data. The data contained timestamp, location with other parameters relating to user which cannot be disclosed. My approach was to find answers for 2 questions - 1. How can I help you improve your product? 2. Can we build a new product from the information we posses? 
 
 __My Contribution to project:__
 1. Understand the data, definitions for various fields. Cleansed it to provide structure to the data. 
 2. Perform statistical analysis of the data and find if any correlation can be obtained. 
-3. To understand if ads clickrate can be enhanced.  
+3. To understand if ads click rate can be enhanced.  
 4. I came up with two concepts through which their product can be improved with a focus on location of the user. 
 5. The concepts are being developed with domain expertise from the company. 
 
@@ -182,11 +182,10 @@ __Unsupervised learning: Tools used- Python, Jupyter Notebook__
 __Regression Analysis: Tools used - Sas, python, pyspark__
 
 1. [Bitcoin-Regression:](https://github.com/MrudulBanka1/Bitcoin-Regression)
-- The goal of this study is to detect whether the coffee brand or the type of coffee machine have any effect on 
-the acidity levels of the coffee. This is to allow coffee drinkers who are sensitive to acidic foods and drinks 
-to be aware of what coffee brands or the brewing process that may be harmful. 
-- We design an experiment to measure acidic levels (in pH) of three different types of coffee roast and two different 
-types of coffee making techniques and analyse experimental data.
+- This is a simple but in depth implementation of Multivariate Regression (MLR) analysis where the objective is to 
+understand the statistical relationship between various parameters, look for best MLR model which gives us a 
+satisfactory value of R squared to justify the model and by conducting hypothesis testing. 
+- By using Regression analysis, we try to predict the price of bitcoin from a static dataset.
 
 2. [California_Housing_median_house_value_prediction:](https://github.com/MrudulBanka1/pyspark)
 
@@ -197,7 +196,7 @@ __Deep Learning:__
 __Natural Language processing: Tools used- Python, Pyspark, NLTK and other NLP libraries, Jupyter Notebook__
 
 1. [The New York Times Topic Modeling:](https://github.com/MrudulBanka1/The-New-York-Times-Comments-Topic-Modeling)
-- In this project we try to analyze the comments posted on articles of The New York Times betwenn Jan - May for 2017 and 2018.
+- In this project we try to analyze the comments posted on articles of The New York Times between Jan - May for 2017 and 2018.
 - We find 9 -15 different topics from the comments. Through the comments we try to predict the most popular topics and its keywords with their scores. 
 2. [Sentiment Analysis for Twitter:](https://github.com/MrudulBanka1/Twitter_stream_Rest_api)
 - We first scarp data from twitter by different means and predict the sentiment of the tweet by using a pre trained model.
@@ -208,10 +207,11 @@ __Recommender Systems__
 __Design of Experiment: Tools used - Sas__
 
 1.[Coffee:](https://github.com/MrudulBanka1/Coffee)
-- This is a simple but indepth implementation of Multivariate Regression (MLR) analysis where the objective is to 
-understand the startical relationship between various parameters, look for best MLR model which gives us a 
-satisfacroty value of R squared to justify the model and by conducting hypothesis testing. 
-- By using Regression analysis, we try to predict the price of bitcoin from a static dataset. 
+- The goal of this study is to detect whether the coffee brand or the type of coffee machine have any effect on 
+the acidity levels of the coffee. This is to allow coffee drinkers who are sensitive to acidic foods and drinks 
+to be aware of what coffee brands or the brewing process that may be harmful. 
+- We design an experiment to measure acidic levels (in pH) of three different types of coffee roast and two different 
+types of coffee making techniques and analyze experimental data.
 
 __Time Series Models__
 
@@ -227,7 +227,7 @@ __Marketing Research__
 
 __Sports Analytics__
 
-__Classifiers and feature engineerng functions__
+__Classifiers and feature engineering functions__
 
 1. [My_Classifiers:](https://github.com/MrudulBanka1/My_Classifiers)        
 - This section contains the functions of all the classifiers which I have tried to build from scratch. 
