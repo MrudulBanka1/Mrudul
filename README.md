@@ -205,7 +205,7 @@ __Recommender Systems__
 
 __Design of Experiment: Tools used - Sas__
 
-1.[Coffee:](https://github.com/MrudulBanka1/Coffee)
+1. [Coffee:](https://github.com/MrudulBanka1/Coffee)
 - The goal of this study is to detect whether the coffee brand or the type of coffee machine have any effect on 
 the acidity levels of the coffee. This is to allow coffee drinkers who are sensitive to acidic foods and drinks 
 to be aware of what coffee brands or the brewing process that may be harmful. 
