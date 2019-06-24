@@ -200,6 +200,10 @@ __Natural Language processing: Tools used- Python, Pyspark, NLTK and other NLP l
 2. [Sentiment Analysis for Twitter:](https://github.com/MrudulBanka1/Twitter_stream_Rest_api)
 - We first scarp data from twitter by different means and predict the sentiment of the tweet by using a pre trained model.
 - The graph shows how a sentiment changes for a particular topic over a number of tweets. 
+3. [Twitter Racism Analyzer:](https://github.com/MrudulBanka1/Twitter_stream_Rest_api/blob/master/Twitter_racism_Analyzer.ipynb)
+- Problem Statement: The objective of this task is to detect hate speech in tweets. For the sake of simplicity, we say a tweet contains hate speech if it has a racist or sexist sentiment associated with it. So, the task is to classify racist or sexist tweets from other tweets.
+- Formally, given a training sample of tweets and labels, where label '1' denotes the tweet is racist/sexist and label '0' denotes the tweet is not racist/sexist, your objective is to predict the labels on the test dataset.
+- Evaluation Metric: The metric used for evaluating the performance of classification model would be F1-Score.
 
 __Recommender Systems__
 
