@@ -172,6 +172,9 @@ __Multi Class Classification: Tools used- MATLAB, Python, pyspark and some R for
 
 2. [Credit Card Fraud Detection:](https://github.com/MrudulBanka1/pyspark)
 
+3. [Audio Classification:](https://github.com/MrudulBanka1/Audio-Classification/blob/master/urban_sound_classification.ipynb)
+- Classification of audio Files which includes sounds of street music, drilling, gun shot, children playing, engine idling, car horn, siren, jackhammer and air conditioner. 
+
 __Unsupervised learning: Tools used- Python, Jupyter Notebook__
 
 1. [Weather prediction:](https://github.com/MrudulBanka1/Unsupervised_Learning)
@@ -206,6 +209,10 @@ __Natural Language processing: Tools used- Python, Pyspark, NLTK and other NLP l
 - Evaluation Metric: The metric used for evaluating the performance of classification model would be F1-Score.
 
 __Recommender Systems__
+1. [Movielens:](https://github.com/MrudulBanka1/Recommender-Systems/blob/master/Movielens_content_collaborative_SVD.ipynb)
+
+2. [Product Recommendation:](https://github.com/MrudulBanka1/Recommender-Systems/blob/master/Purchase_data_recommendation_engine.ipynb)
+
 
 __Design of Experiment: Tools used - Sas__
 
