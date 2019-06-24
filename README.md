@@ -246,6 +246,8 @@ __Classifiers and feature engineering functions__
 1. [My_Classifiers:](https://github.com/MrudulBanka1/My_Classifiers)        
 - This section contains the functions of all the classifiers which I have tried to build from scratch. 
 
+ 
+
 ## Resume
 
    __Click to download__
@@ -261,6 +263,12 @@ __Classifiers and feature engineering functions__
 ## To Know more about me
 - [LinkedIn](https://www.linkedin.com/in/mrudulbanka/)
 - [Kaggle](https://www.kaggle.com/mrudul)
+   
+   Ranking:  
+   - Digit Recognizer - Top 3%
+   - House price prediction - Top 10%
+   - Jigsaw Unintended Bias in toxicity classification - Top 53%
+   
 - [Twitter](https://twitter.com/MRYDUL)
 - [Facebook](https://www.facebook.com/mrudul.banka)
 
