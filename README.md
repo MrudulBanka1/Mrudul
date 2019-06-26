@@ -64,11 +64,11 @@ well as the point of contact for the project.
 __Projects Completed at internship at Apilation.ai__
 
 1. To build an automated DS-1 reconciliation engine, analyze the discrepancies, fault detection
-   by rules and its visualization of Tariff # 14 for Frontier Communications.
+   by rules and its visualization of Tariff # 14 for XXXXX.
 2. To develop, analyze and deploy a machine learning model to predict the chances of failure
-   of set top boxes in the state of XXXX for Frontier Communications.
+   of set top boxes in the state of XXXX for XXXXX.
 3. To build an automated DS-1 reconciliation engine, analyze the discrepancies, fault detection
-   by rules and its visualization of Tariff # 2,3,5,10 for Frontier Communications.
+   by rules and its visualization of Tariff # 2,3,5,10 for XXXXX.
 4. To build a recommendation engine to recommend Tv shows a user would watch given his past 
    viewership and segments to which it belonged.
 5. Perform Data Profiling to understand what can be done to obtain business value from their data.
@@ -77,7 +77,7 @@ I am unable to post links to my data science projects I had completed during my 
 
 __Project 1: Automated reconciliation engine – Phase 1__
 
-   The project is to build an automated DS-1 reconciliation engine. Frontier Communications has
+   The project is to build an automated DS-1 reconciliation engine. XXXXX has
 come together through a long series of acquisitions. It is believed that their billing is incorrect in a small
 percentage of cases, but a small percentage of a lot of circuits can make up a lot of money for the
 company. For the first phase, they had decided to concentrate just on the single tariff #14 which covers 43% of
@@ -99,9 +99,9 @@ members of the team.
 
 __Project 2: Machine learning model for Set top Box__
 
-   The project is to build a prediction model to detect which set up box is going to fail. Frontier
-communications offer digital television services across USA. To minimize service order, minimize the
-time taken to fulfill service orders because of set top box failures, frontier is turning to machine learning
+   The project is to build a prediction model to detect which set up box is going to fail. XXXXX
+ offer digital television services across USA. To minimize service order, minimize the
+time taken to fulfill service orders because of set top box failures, XXXXX is turning to machine learning
 to detect which set up box is about to fail based on the data gathered from the set top box every 15
 minutes. For this project, we worked with dataset gathered from the state of XXXX. An approximate
 total of 9TB of data was processed with a 90Gb batch of data inflow occurring every 15 mins. 6 different
@@ -119,7 +119,7 @@ failure prediction. Best model had a prediction accuracy of 91.01% (Model Type: 
 
 __Project 3: Automated reconciliation engine – Phase 2 – Project Lead__
 
-The project is to build an automated DS-1 reconciliation engine. Frontier Communications has
+The project is to build an automated DS-1 reconciliation engine. XXXXX has
 come together through a long series of acquisitions. It is believed that their billing is incorrect in a small
 percentage of cases, but a small percentage of a lot of circuits can make up a lot of money for the
 company. For the second phase, they had decided to concentrate on multiple tariffs #2, 3, 5, 10, which covers
