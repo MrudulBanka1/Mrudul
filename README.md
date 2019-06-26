@@ -152,7 +152,7 @@ __My Contribution to project:__
 
 __Project 5: Data Profiling for company XXXX__
 
-We received a telecom company's mobile application log data. The expectation from us was to look into the data and to understand if any business value can be generated from that data. The data contained timestamp, location with other parameters relating to user which cannot be disclosed. My approach was to find answers for 2 questions - 1. How can I help you improve your product? 2. Can we build a new product from the information we posses? 
+We received a multinational food company's data. The expectation from us was to look into the data and to understand if any advertising business value can be generated from that data. The data contained timestamp, location with other parameters relating to user which cannot be disclosed. My approach was to find answers for 2 questions - 1. How can I help you improve your product? 2. Can we build a new product from the information we posses? 
 
 __My Contribution to project:__
 1. Understand the data, definitions for various fields. Cleansed it to provide structure to the data. 
