@@ -23,68 +23,34 @@ __My Experience:__
 
 1. Overall it was a wonderful learning experience which has given me a great outlook of the data
 science industry i.e.
-   - __to achieve success as a data science team, the team has to develop a thorough understanding of the business problem along with        technical expertise.__ 
-   - __The team has to work towards developing trust of decision makers, dealing patiently with all stakeholders.__ 
-   - __Another important aspect is how concisely can the team convey the impact which can achieved by pursuing a project when connecting     with the right people.__ 
-2. Working on industrial scale Big Data projects showed me the how information generated
-through big data analytics and machine learning can be used to generate and save millions of
-dollars in revenue.
-3. I was provided an opportunity to lead a project where I was the point of contact with client. This
-opportunity helped me grow as a professional. I was also asked to train my fellow interns on a
-technology I was good with.
-4. Throughout the internship I was mentored thoroughly by the CEO which proved helpful to me
-on a number of occasions.
-5. Learned and worked on new programming languages, worked the NoSQL databases with JSonar Studio and MongoDB, 
-how to create visualization on edge technologies tool. I was able to explore and experiment with all the tools 
-within my sandbox environment which helped me learn faster.
-6. This internship prepared me for intense meetings, how to communicate with clients and how to sell
-your product. My overall communication skills are far superior than what they were before I
-started the internship.
-7. I understood how effective working in an open agile environment is with the key knowledge of how to tackle
-client requirements and produce deliverables on time. 
+   - __To achieve success as a data science team, the team has to develop a thorough understanding of the business problem along with        technical expertise.__ 
+   - __The team has to work towards developing the trust of decision-makers, dealing patiently with all stakeholderss.__ 
+   - __Another important aspect is how concisely can the team convey the impact which can be achieved by pursuing a project when connecting with the right people..__ 
+2. Working on industrial scale Big Data projects showed me how information generated through big data analytics and machine learning can be used to generate and save millions of dollars in revenue.
+3. I was provided an opportunity to lead a project where I was the point of contact with the client. This opportunity helped me grow as a professional. I was also asked to train my fellow interns on a technology I was good with.
+4. Throughout the internship, I was mentored thoroughly by the CEO which proved helpful to me on a number of occasions.
+5. Learned and worked on new programming languages, worked the NoSQL databases with JSonar Studio and MongoDB, how to create visualizations on edge technologies tools. I was able to explore and experiment with all the tools within my sandbox environment which helped me learn faster.
+6. This internship prepared me for intense meetings, how to communicate with clients and how to sell your product. My overall communication skills are far superior to what they were before I started the internship.
+7. I understood how effective working in an open agile environment is with the key knowledge of how to tackle client requirements and produce deliverables on time. 
 
 __My Responsibilities:__
 
-   As described in the offer letter – ‘’Your job is to help us re-imagine how technology is
-leveraged in the businesses of the future. You will work under the mentorship of an experienced
-team leader in either Analytics, Platform, or Experience Engineering; learning new tools, techniques,
-and skills that can include coding predictive algorithms, building software, and defining how users
-experience our offerings, or all of the above. You can expect to have substantial influence on the
-direction that your work, your team, and the company takes as we move forward. Examples of the
-types of skills we expect for you to possess coming in include, but are not limited to the following:
-Education in Data Science and Business Analytics and expertise in tools such as SQL, R, Python SAS,
-etc. Java-Script Notation (JSON), MongoDB, etc. You should understand how queries, joins, and
-aggregation pipelines work. Education in Web Design and expertise such as the MEAN stack
-(MongoBD, Express, Angular, Node), HTML5, CSS, etc. SQL skills also important. Visualization tools
-such as Tableau, Domo, Spotfire, and PowerBI.’’
-
-   Along with everything quoted above, I was also made the team lead on DS-1 reconciliation engine as 
-well as the point of contact for the project. 
+   As described in the offer letter – ‘'Your job is to help us re-imagine how technology is leveraged in the businesses of the future. You will work under the mentorship of an experienced team leader in either Analytics, Platform, or Experience Engineering; learning new tools, techniques, and skills that can include coding predictive algorithms, building software, and defining how users experience our offerings or all of the above. You can expect to have a substantial influence on the direction that your work, your team, and the company takes as we move forward. Examples of the types of skills we expect for you to possess coming in include, but are not limited to the following: Education in Data Science and Business Analytics and expertise in tools such as SQL, R, Python SAS, etc. Java-Script Notation (JSON), MongoDB, etc. You should understand how queries, joins, and aggregation pipelines work. Education in Web Design and expertise such as the MEAN stack (MongoDB, Express, Angular, Node), HTML5, CSS, etc. SQL skills are also important. Visualization tools such as Tableau, Domo, Spotfire, and PowerBI.''
+Along with everything quoted above, I was also made the team lead on the DS-1 reconciliation engine as well as the point of contact for the project. 
 
 __Projects Completed at internship at Apilation.ai__
 
-1. To build an automated DS-1 reconciliation engine, analyze the discrepancies, fault detection
-   by rules and its visualization of Tariff # 14 for XXXXX.
-2. To develop, analyze and deploy a machine learning model to predict the chances of failure
-   of set top boxes in the state of XXXX for XXXXX.
-3. To build an automated DS-1 reconciliation engine, analyze the discrepancies, fault detection
-   by rules and its visualization of Tariff # 2,3,5,10 for XXXXX.
-4. To build a recommendation engine to recommend Tv shows a user would watch given his past 
-   viewership and segments to which it belonged.
+1. To build an automated DS-1 reconciliation engine, analyze the discrepancies, fault detection by rules and its visualization of Tariff # 14 for XXXXX.
+2. To develop, analyze and deploy a machine learning model to predict the chances of failure of set-top boxes in the state of XXXX for XXXXX.
+3. To build an automated DS-1 reconciliation engine, analyze the discrepancies, fault detection by rules and its visualization of Tariff # 2,3,5,10 for XXXXX.
+4. To build a recommendation engine to recommend Tv shows a user would watch given his past viewership and segments to which it belonged.
 5. Perform Data Profiling to understand what can be done to obtain business value from their data.
 
-I am unable to post links to my data science projects I had completed during my internship due to proprietary concerns but here is a description of all the work I have been involved in. 
+Note: I am unable to post links to my data science projects I had completed during my internship due to proprietary concerns but here is a description of all the work I have been involved in. 
 
 __Project 1: Automated reconciliation engine – Phase 1__
 
-   The project is to build an automated DS-1 reconciliation engine. XXXXX has
-come together through a long series of acquisitions. It is believed that their billing is incorrect in a small
-percentage of cases, but a small percentage of a lot of circuits can make up a lot of money for the
-company. For the first phase, they had decided to concentrate just on the single tariff #14 which covers 43% of
-the 170,000 circuits. Project was divided into two sets of rules on based on which we can classify the circuits as billed
-correctly or billed incorrectly. After classification and implementation of production version of application,
-Processed data, statistical analysis and visualizations were presented to the client. The application was built in
-over 4 weeks in JSonar studio.
+   The project is to build an automated DS-1 reconciliation engine. XXXXX has come together through a long series of acquisitions. It is believed that their billing is incorrect in a small percentage of cases, but a small percentage of a lot of circuits can make up a lot of money for the company. For the first phase, they had decided to concentrate just on the single tariff #14 which covers 43% of the 170,000 circuits. The project was divided into two sets of rules based on which we can classify the circuits as billed correctly or billed incorrectly. After classification and implementation of the production version of the application, Processed data, statistical analysis and visualizations were presented to the client. The application was built in over 4 weeks in JSonar studio.
 
 __My Contribution to project:__
 
