@@ -166,7 +166,10 @@ __Natural Language processing: Tools used- Python, Pyspark, NLTK and other NLP l
 
 1. [The New York Times Topic Modeling:](https://github.com/MrudulBanka1/The-New-York-Times-Comments-Topic-Modeling)
 - In this project we try to analyze the comments posted on articles of The New York Times between Jan - May for 2017 and 2018.
-- We find 9 -15 different topics from the comments. Through the comments we try to predict the most popular topics and its keywords with their scores. 
+- We find 9 -15 different topics from the comments. Through the comments we try to predict the most popular topics and its keywords with their scores.
+
+<img src="https://github.com/MrudulBanka1/The-New-York-Times-Comments-Topic-Modeling/blob/master/200%20words.JPG" alt="drawing" width="500"/> 
+
 2. [Sentiment Analysis for Twitter:](https://github.com/MrudulBanka1/Twitter_stream_Rest_api)
 - We first scarp data from twitter by different means and predict the sentiment of the tweet by using a pre trained model.
 - The graph shows how a sentiment changes for a particular topic over a number of tweets. 
