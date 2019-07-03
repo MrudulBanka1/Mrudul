@@ -135,6 +135,7 @@ __Multi Class Classification: Tools used- MATLAB, Python, pyspark and some R for
 1. [Hand-Posture Recognition:](https://github.com/MrudulBanka1/Hand-Posture-Recognition)
 - 5 class classification project to recognize different hand postures from motion captured Hand Postures. 
 - Number of Instances: 78095, Number of Attributes: 38, Attribute Characteristics: Real
+<img src="https://github.com/MrudulBanka1/Hand-Posture-Recognition/blob/master/bag_tree_cm.PNG" alt="drawing" width="400"/>
 
 2. [Credit Card Fraud Detection:](https://github.com/MrudulBanka1/pyspark)
 
