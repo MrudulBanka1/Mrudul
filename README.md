@@ -135,7 +135,6 @@ __Multi Class Classification: Tools used- MATLAB, Python, pyspark and some R for
 1. [Hand-Posture Recognition:](https://github.com/MrudulBanka1/Hand-Posture-Recognition)
 - 5 class classification project to recognize different hand postures from motion captured Hand Postures. 
 - Number of Instances: 78095, Number of Attributes: 38, Attribute Characteristics: Real
-<img src="https://github.com/MrudulBanka1/Hand-Posture-Recognition/blob/master/bag_tree_cm.PNG" alt="drawing" width="400"/>
 
 2. [Credit Card Fraud Detection:](https://github.com/MrudulBanka1/pyspark)
 
@@ -168,7 +167,6 @@ __Natural Language processing: Tools used- Python, Pyspark, NLTK and other NLP l
 - In this project we try to analyze the comments posted on articles of The New York Times between Jan - May for 2017 and 2018.
 - We find 9 -15 different topics from the comments. Through the comments we try to predict the most popular topics and its keywords with their scores.
 
-<img src="https://github.com/MrudulBanka1/The-New-York-Times-Comments-Topic-Modeling/blob/master/200%20words.JPG" alt="drawing" width="500"/> 
 
 2. [Sentiment Analysis for Twitter:](https://github.com/MrudulBanka1/Twitter_stream_Rest_api)
 - We first scarp data from twitter by different means and predict the sentiment of the tweet by using a pre trained model.
