@@ -4,7 +4,7 @@ Hello, I am Mrudul Banka. I like to explore, learn, work and innovate.
 
 My areas of interest are - data science, operations research, IoT analytics, robotics, economics and process improvement. 
 
-This page showcases my brilliant experience during my internship and data science projects I have worked on till date. 
+This page showcases my brilliant experience during my internship/CO-OP and data science projects I have worked on till date. 
 
 ## Resume
 
@@ -12,7 +12,7 @@ This page showcases my brilliant experience during my internship and data scienc
    
 <a href="Mrudul_Banka_General.pdf">Mrudul Banka Resume </a>
 
-## Internship experience at Apilation.ai
+## Data Science experience at Apilation.ai
 
 - __Company Website:__ [Apilation.ai](http://www.apilation.ai/)   
 - __Location: Mill Valley, California - Dallas, Texas - Remote__
