@@ -220,7 +220,7 @@ __Classifiers and feature engineering functions__
 
    __Click to download__
    
-<a href="Resume_Mrudul_Banka.pdf">Mrudul Banka Resume </a>
+<a href="Mrudul_Banka_General.pdf">Mrudul Banka Resume </a>
 
 ## Contact Details
 
