@@ -6,12 +6,22 @@ My areas of interest are - data science, operations research, IoT analytics, rob
 
 This page showcases my brilliant experience during my internship and data science projects I have worked on till date. 
 
+## Resume
+
+   __Click to download__
+   
+<a href="Mrudul_Banka_General.pdf">Mrudul Banka Resume </a>
+
 ## Internship experience at Apilation.ai
 
 - __Company Website:__ [Apilation.ai](http://www.apilation.ai/)   
 - __Location: Mill Valley, California - Dallas, Texas - Remote__
 - __Position: Big Data Analytics Intern__  
 - __Duration: August 2018 - May 2019__
+
+ __Click to download a pdf version of my Data Science CO-Op experience__
+   
+<a href="Data_Science_COOP.pdf">Data Science CO-OP </a>
 
 __About Apilation.ai__
 
@@ -213,14 +223,6 @@ __Classifiers and feature engineering functions__
 
 1. [My_Classifiers:](https://github.com/MrudulBanka1/My_Classifiers)        
 - This section contains the functions of all the classifiers which I have tried to build from scratch. 
-
- 
-
-## Resume
-
-   __Click to download__
-   
-<a href="Mrudul_Banka_General.pdf">Mrudul Banka Resume </a>
 
 ## Contact Details
 
