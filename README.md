@@ -235,9 +235,9 @@ __Classifiers and feature engineering functions__
 - [Kaggle](https://www.kaggle.com/mrudul)
    
    Ranking:  
-   - Digit Recognizer - Top 3%
+   - Digit Recognizer - Top 1%
    - House price prediction - Top 10%
-   - Jigsaw Unintended Bias in toxicity classification - Top 53%
+   - Jigsaw Unintended Bias in toxicity classification - Top 30%
    
 - [Twitter](https://twitter.com/MRYDUL)
 - [Facebook](https://www.facebook.com/mrudul.banka)
