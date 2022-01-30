@@ -10,7 +10,7 @@ This page showcases my brilliant experience during my internship/CO-OP and data 
 
    __Click to download__
    
-<a href="Mrudul_Banka_General.pdf">Mrudul Banka Resume </a>
+<a href="Mrudul_Banka_DS_2022.pdf">Mrudul Banka Resume </a>
 
 ## Data Science experience at Apilation.ai
 
